@@ -18,4 +18,3 @@ A production-style microservices-based fitness application.
 - Event-driven communication using Kafka
 - Secure authentication using Keycloak
 
-## Project Structure
