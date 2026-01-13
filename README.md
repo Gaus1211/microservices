@@ -17,4 +17,3 @@ A production-style microservices-based fitness application.
 - API Gateway pattern
 - Event-driven communication using Kafka
 - Secure authentication using Keycloak
-
